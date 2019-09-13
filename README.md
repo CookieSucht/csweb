@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 - [ ] TS3Server Setup
 
 
-- [News!](https://cookiesucht.github.io/web/news.html "CookieSucht - News!")
+- [News!](https://cookiesucht.github.io/web/news/ "CookieSucht - News!")
