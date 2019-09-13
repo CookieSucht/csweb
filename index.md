@@ -27,11 +27,19 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 **ToDo:**
 
 - [x] Create Forum
-- [ ] Create Discord
+
+- [x] Create Discord
+
 - [x] Update 1.0
+
 - [ ] Update 1.1
+
 - [ ] Update 1.2
+
+- [ ] Update 1.3
+
 - [ ] Donate Page Setup
+
 - [ ] TS3Server Setup
 
 
