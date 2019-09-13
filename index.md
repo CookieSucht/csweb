@@ -7,7 +7,7 @@
 **Forum:** [Come to the Forum!](https://cookiesucht.nhforums.net/ "CookieSucht - Forum")<br>
 **News:** [Here are the News!](https://cookiesucht.nhforums.net/gh-news "CookieSucht - GitHubNews")<br><br>
 
-Du kannst uns Hier [Spenden!](http://donate.CookieSuchtnet "CookieSucht - Donate!")
+Du kannst uns Hier [Spenden!](http://donate.CookieSucht.net "CookieSucht - Donate!")
 
 ### Markdown
 
