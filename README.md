@@ -1,4 +1,4 @@
-## TargetGames.eu - Home
+## CookieSucht.net - Home
 
 **Project:** [Click this Link](https://github.com/CookieSucht/web/ "CookieSucht - GitHub - Project")<br>
 **Issues:** [Issue Create here](https://github.com/CookieSucht/web/issues "CookieSucht - Issues")<br>
