@@ -4,6 +4,8 @@
 **Issues:** [Issue Create here](https://github.com/CookieSucht/web/issues "CookieSucht - Issues")<br>
 **Wiki:** [View the Wiki Here!](https://github.com/CookieSucht/web/wiki "CookieSucht - Wiki")<br>
 **Discord:** [Join our Discord!](https://invite.gg/cookiesucht "CookieSucht - Discord")<br>
+**Forum:** [Come to the Forum!](https://cookiesucht.nhforums.net/ "CookieSucht - Forum")<br>
+**News:** [Here are the News!](https://cookiesucht.nhforums.net/gh-news "CookieSucht - GitHubNews")<br><br>
 
 Du kannst uns Hier [Spenden!](http://donate.CookieSuchtnet "CookieSucht - Donate!")
 
@@ -24,6 +26,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 **ToDo:**
 
+- [x] Create Forum
 - [x] Update 1.0
 - [ ] Update 1.1
 - [ ] Update 1.2
