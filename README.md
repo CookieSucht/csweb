@@ -32,3 +32,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 - [ ] Update 1.2
 - [ ] Donate Page Setup
 - [ ] TS3Server Setup
+
+
+- [News!](https://cookiesucht.github.io/web/news.md "CookieSucht - News!")
