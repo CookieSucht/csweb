@@ -1,10 +1,16 @@
 ## CookieSucht - News
 
-- [Homesite](https://cookiesucht.github.io/web/ "CookieSucht - Home")<br>
+- [Homesite](https://cookiesucht.github.io/web/ "CookieSucht - Home")
 
 
-<br><br>
+__**The Forum:**__
 
-__**The Forum:**__<br>
+- [Forum](https://cookiesucht.nhforums.net/ "CookieSucht - Forums!")
 
-- [Forum](https://cookiesucht.nhforums.net/ "CookieSucht - Forums!)<br>
+**ToDo:**
+<br>
+- [x] Create Forum!<br><br>
+
+[Click Here!](https://cookiesucht.nhforums.net/ "CookieSucht - Forum")
+
+- [ ] Create Discord
